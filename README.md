@@ -2,8 +2,16 @@
 Azure Event Hub
 
 -------
+Video
+-------
+
+https://www.youtube.com/watch?v=Dc3P27BsK3E
+
+-------
 Info
 -------
+
+https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about
 
 Azure Event Hubs is a big data streaming platform and event ingestion service. It can receive and process millions of events per second. Data sent to an event hub can be transformed and stored by using any real-time analytics provider or batching/storage adapters.
 
